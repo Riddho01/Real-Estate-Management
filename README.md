@@ -27,3 +27,10 @@ It can easily be used to manage two different group of users with different perm
 Import the Database in Your Server like Xampp, Wamp
 
 Database Name -: developer
+
+# Screenshots
+
+![DBMS_1](https://user-images.githubusercontent.com/113382428/205497919-c24c7125-8de3-4dcc-82a7-133f41961cf0.PNG)
+![DBMS_2](https://user-images.githubusercontent.com/113382428/205497910-b1deec01-d2ad-42cb-8a25-d5bf21d350b0.PNG)
+
+
